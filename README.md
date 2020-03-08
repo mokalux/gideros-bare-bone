@@ -1,4 +1,4 @@
-A bare bone gideros project to start your own project.
+A bare bone gideros project to quick start your own gideros projects.
 
 Includes:
 - scene manager plugin
